@@ -1,0 +1,58 @@
+_repo: Facts-and-Arguments-for-Darwin_6475
+alternative_title: Für Darwin. English
+contributor:
+  translator:
+    agent_name: Dallas, W. S. (William Sweetland)
+    alias: Dallas, William Sweetland
+    birthdate: 1824
+    deathdate: 1890
+    gutenberg_agent_id: '41383'
+    url: http://www.gutenberg.org/2009/agents/41383
+creator:
+  author:
+    agent_name: Müller, Fritz
+    aliases:
+    - Muller, Fritz
+    - Fritz Müller
+    - Müller, Johann Friedrich Theodor
+    birthdate: 1821
+    deathdate: 1897
+    gutenberg_agent_id: '2059'
+    url: http://www.gutenberg.org/2009/agents/2059
+    wikipedia: http://en.wikipedia.org/wiki/Fritz_Müller
+description: "Facts and Arguments for Darwin is an 1864 book on evolutionary biology\
+  \ by the German biologist Fritz Müller, originally published in German under the\
+  \ title Für Darwin (\"For Darwin\"), and translated into English by William Sweetland\
+  \ Dallas in 1867. Müller argued that Charles Darwin's theory of evolution by natural\
+  \ selection that he had advanced in his book The Origin of Species only five years\
+  \ earlier was correct, citing evidence that he had come across in Brazil.\nMüller\
+  \ states in the 'Author's Preface':\n\n“It is not the purpose of the following pages\
+  \ to discuss once more the arguments deduced for and against Darwin's theory of\
+  \ the origin of species, or to weigh them one against the other. Their object is\
+  \ simply to indicate a few facts favourable to this theory, collected upon the same\
+  \ South American ground, on which, as Darwin tells us, the idea first occurred to\
+  \ him of devoting his attention to ‘the origin of species, — that mystery of mysteries’.\n\
+  \n“It is only by the accumulation of new and valuable material that the controversy\
+  \ will gradually be brought into a state fit for final decision, and this appears\
+  \ to be for the present of more importance than a repeated analysis of what is already\
+  \ before us. Moreover, it is but fair to leave it to Darwin himself at first to\
+  \ beat off the attacks of his opponents from the splendid structure which he has\
+  \ raised with such a master-hand.”\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6475'
+  wikidata: Q5428802
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Evolution (Biology)'
+- !lcsh 'Crustacea'
+title: Facts and Arguments for Darwin
+url: http://www.gutenberg.org/ebooks/6475
+wikipedia:
+- https://en.wikipedia.org/wiki/Facts_and_Arguments_for_Darwin
