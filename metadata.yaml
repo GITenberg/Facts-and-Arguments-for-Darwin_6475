@@ -1,4 +1,5 @@
 _repo: Facts-and-Arguments-for-Darwin_6475
+_version: 0.1.0
 alternative_title: Für Darwin. English
 contributor:
   translator:
@@ -8,6 +9,9 @@ contributor:
     deathdate: 1890
     gutenberg_agent_id: '41383'
     url: http://www.gutenberg.org/2009/agents/41383
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Müller, Fritz
@@ -38,6 +42,8 @@ description: "Facts and Arguments for Darwin is an 1864 book on evolutionary bio
   \ before us. Moreover, it is but fair to leave it to Darwin himself at first to\
   \ beat off the attacks of his opponents from the splendid structure which he has\
   \ raised with such a master-hand.”\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6475#Facts-and-Arguments-for-Darwin
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
